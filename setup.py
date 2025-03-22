@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='fastarithmetic',
-    version='1.0.0',
+    version='2.0.0',
     packages=find_packages(),
     description='Optimized arithmetic operations for large numbers with high-speed algorithms.',
     long_description='''
@@ -44,7 +44,7 @@ for multiplication and division due to the use of advanced algorithms.
 
 ''',
     author='CodingMaster24',
-    author_email='sivatech24.email@example.com',
+    author_email='sivatech24@gmail.com',
     url='https://github.com/Sivatech24/fastarithmetic',
     classifiers=[
         'Programming Language :: Python :: 3',
