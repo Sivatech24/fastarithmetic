@@ -1,4 +1,4 @@
-# fastarithmetic
+# Fastarithmetic
 
 fastarithmetic is a Python package designed for fast and efficient arithmetic operations on very large numbers.
 It implements optimized algorithms like Karatsuba multiplication and Newton-Raphson division to provide
